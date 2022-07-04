@@ -11,7 +11,8 @@ print(type(miset))
 midiccionario = {
     "nombre": "Gerardo",
     "apellido": "Olguin",
-    "edad": 39
+    "edad": 39,
+    "nombre": "otro"
 }
 
 print(type(midiccionario))

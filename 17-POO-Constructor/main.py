@@ -4,6 +4,7 @@ carro = Coche("Azul","Nissan", "Kicks", 200, 60, 5)
 
 
 print(carro.getInfo())
+print(carro.marca)
 
 # detectar type
 
