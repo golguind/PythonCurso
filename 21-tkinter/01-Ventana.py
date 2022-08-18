@@ -19,7 +19,7 @@ texto.config(
 )
 texto.pack(anchor=SE)
 
-ventana.iconbitmap(ruta_icono)
+#ventana.iconbitmap(ruta_icono)
 
 # Tamaño
 ventana.geometry("750x450")

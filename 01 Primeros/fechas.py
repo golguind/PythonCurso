@@ -18,7 +18,8 @@ def current_date_format(date):
     day = date.day
     month = months[date.month - 1]
     year = date.year
-    messsage = "{} de {} del {}".format(day, month, year)
+    segundo = 5804 
+    messsage = "{} de {} del {} de numero {}".format(day, month, year, segundo)
 
     return messsage
 
